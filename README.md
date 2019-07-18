@@ -10,14 +10,14 @@ This is a fork of Peatio designed for micro-services architecture. We have simpl
 in order to use only Peatio API with external frontend and server components.
 
 To build your own exchange you should now run Peatio as a backend instead of forking the repository,
-and extend it using other microservices such as [Barong](https://www.github.com/rubykube/barong).
+and extend it using other microservices such as [Barong](https://github.com/nucleoosystem/barong).
 
 ## Mission
 
 Our mission is to build an open-source crypto currency exchange with a high performance trading engine and incomparable security. We are moving toward dev/ops best practices of running an enterprise grade exchange.
 
 We provide webinar or on site training for installing, configuring and administration best practices of Peatio.
-Feel free to contact us for joining the next training session: [Openware.com](https://www.openware.com)
+Feel free to contact us for joining the next training session: [NucleoOS.tech](http://www.nucleoos.tech)
 
 Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
@@ -55,8 +55,8 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 * Powerful admin dashboard and management tools
 * Highly configurable and extendable
 * Industry standard security out of box
-* Maintained by [Openware.com](https://www.openware.com)
-* [KYC Verification](http://en.wikipedia.org/wiki/Know_your_customer) provided by [Barong](https://www.github.com/rubykube/barong)
+* Maintained by [NucleoOS.tech](http://www.nucleoos.tech)
+* [KYC Verification](http://en.wikipedia.org/wiki/Know_your_customer) provided by [Barong](https://github.com/nucleoosystem/barong)
 
 ## Contribute
 
@@ -95,8 +95,8 @@ Otherwise we advice to use [microkube based environment](#local-development-envi
 
 ### Local development environment with microkube:
 
-We suggest you to start using Peatio by installing [Microkube](https://github.com/rubykube/microkube).
-[Microkube](https://github.com/rubykube/microkube) which is based on
+We suggest you to start using Peatio by installing [Microkube](https://github.com/nucleoosystem/microkube).
+[Microkube](https://github.com/nucleoosystem/microkube) which is based on
 [Docker containers](https://www.docker.com/what-docker) is a convenient and straightforward way to start
 Peatio development environment.
 
@@ -106,12 +106,12 @@ Peatio development environment.
 
 #### Prepare the microkube
 
-Follow microkube [README](https://github.com/rubykube/microkube) for the best Peatio installation experience.
+Follow microkube [README](https://github.com/nucleoosystem/microkube) for the best Peatio installation experience.
 
 ### Local development environment with workbench (DEPRECATED since 2.0):
 
 [Workbench](https://github.com/rubykube/workbench) is legacy way for running Peatio locally.
-Probably Workbench support will be removed soon. We advice to use [Microkube](https://github.com/rubykube/microkube)
+Probably Workbench support will be removed soon. We advice to use [Microkube](https://github.com/nucleoosystem/microkube)
 which is more lightweight environment.
 
 #### [Barong](https://github.com/rubykube/barong)
